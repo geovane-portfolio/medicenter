@@ -15,6 +15,7 @@ header {
     display: flex;
     justify-content:space-between;
     width: 990px;
+    padding: 20px;
 }
 .logo {
     display: flex;
